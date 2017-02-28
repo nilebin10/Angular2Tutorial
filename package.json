@@ -1,0 +1,22 @@
+{
+  "name": "datepicker_tuts",
+  "version": "1.0.0",
+  "description": "\"This is custom datepicker using angular UI\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nielbin10/Angular2Tutorial.git"
+  },
+  "keywords": [
+    "DEMO"
+  ],
+  "author": "nielbin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nielbin10/Angular2Tutorial/issues"
+  },
+  "homepage": "https://github.com/nielbin10/Angular2Tutorial#readme"
+}
